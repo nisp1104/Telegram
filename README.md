@@ -3,6 +3,7 @@ Project that I created with Etash Kalra in December 2019 for CSCI 2275
 
 ## Requirements
 The telegram.txt must be passed in as a command line argument in order for the program to run correctly.
+
 Example: `> FinalProjectV4.exe telegram.txt`
 
 ## Initiation
